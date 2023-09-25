@@ -1,0 +1,7 @@
+ls
+echo fumo? | tr [a-z] [A-Z]
+pet=perro limpio
+name=koko
+echo mi $pet se llama $name
+cmd=ls -l
+$cmd

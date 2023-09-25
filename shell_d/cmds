@@ -1,0 +1,5 @@
+echo $HOME$HOME
+echo $HOME $HOME
+echo $HOME<cmds
+echo nada$HOME
+echo $HOME|ls
